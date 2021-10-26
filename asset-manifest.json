@@ -1,0 +1,37 @@
+{
+  "files": {
+    "main.css": "/backupsite1/static/css/main.02e63dba.chunk.css",
+    "main.js": "/backupsite1/static/js/main.6f4b09c2.chunk.js",
+    "main.js.map": "/backupsite1/static/js/main.6f4b09c2.chunk.js.map",
+    "runtime-main.js": "/backupsite1/static/js/runtime-main.3746320d.js",
+    "runtime-main.js.map": "/backupsite1/static/js/runtime-main.3746320d.js.map",
+    "static/js/2.c668e971.chunk.js": "/backupsite1/static/js/2.c668e971.chunk.js",
+    "static/js/2.c668e971.chunk.js.map": "/backupsite1/static/js/2.c668e971.chunk.js.map",
+    "index.html": "/backupsite1/index.html",
+    "static/css/main.02e63dba.chunk.css.map": "/backupsite1/static/css/main.02e63dba.chunk.css.map",
+    "static/js/2.c668e971.chunk.js.LICENSE.txt": "/backupsite1/static/js/2.c668e971.chunk.js.LICENSE.txt",
+    "static/media/App.css": "/backupsite1/static/media/AkiraExpanded.51985533.otf",
+    "static/media/advancedlogo.a11c36e5.png": "/backupsite1/static/media/advancedlogo.a11c36e5.png",
+    "static/media/avaxlogo.30dfa545.png": "/backupsite1/static/media/avaxlogo.30dfa545.png",
+    "static/media/background1.169bca43.png": "/backupsite1/static/media/background1.169bca43.png",
+    "static/media/background2.4caf927d.png": "/backupsite1/static/media/background2.4caf927d.png",
+    "static/media/background3.f14869db.png": "/backupsite1/static/media/background3.f14869db.png",
+    "static/media/beginnerlogo.ebd3cb2c.png": "/backupsite1/static/media/beginnerlogo.ebd3cb2c.png",
+    "static/media/chart.e6464046.png": "/backupsite1/static/media/chart.e6464046.png",
+    "static/media/intermediatelogo.e4244bfa.png": "/backupsite1/static/media/intermediatelogo.e4244bfa.png",
+    "static/media/olympianlogo.6d926e97.png": "/backupsite1/static/media/olympianlogo.6d926e97.png",
+    "static/media/prologo.ddc5c0d7.png": "/backupsite1/static/media/prologo.ddc5c0d7.png",
+    "static/media/rotatingif.bab78d97.gif": "/backupsite1/static/media/rotatingif.bab78d97.gif",
+    "static/media/skigif.dcc5c4d3.gif": "/backupsite1/static/media/skigif.dcc5c4d3.gif",
+    "static/media/skiteamfulllogo.a04c1547.png": "/backupsite1/static/media/skiteamfulllogo.a04c1547.png",
+    "static/media/skiteamlogo.1d871a68.png": "/backupsite1/static/media/skiteamlogo.1d871a68.png",
+    "static/media/skiteampromo.f6418538.png": "/backupsite1/static/media/skiteampromo.f6418538.png",
+    "static/media/wsb.b5a74781.png": "/backupsite1/static/media/wsb.b5a74781.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.3746320d.js",
+    "static/js/2.c668e971.chunk.js",
+    "static/css/main.02e63dba.chunk.css",
+    "static/js/main.6f4b09c2.chunk.js"
+  ]
+}
